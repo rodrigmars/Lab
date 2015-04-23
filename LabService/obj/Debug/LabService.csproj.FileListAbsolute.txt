@@ -1,0 +1,5 @@
+F:\Projetos\LabService\LabService\bin\Debug\LabService.dll
+F:\Projetos\LabService\LabService\bin\Debug\LabService.pdb
+F:\Projetos\LabService\LabService\obj\Debug\LabService.dll
+F:\Projetos\LabService\LabService\obj\Debug\LabService.pdb
+F:\Projetos\LabService\LabService\obj\Debug\LabService.csprojResolveAssemblyReference.cache
